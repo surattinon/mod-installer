@@ -1,2 +1,0 @@
-If you get any errors during signing,you may need to install [Windows SDK Signing Tools for Desktop Apps]
-using provided installer winsdksetup.exe
